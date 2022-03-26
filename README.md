@@ -10,7 +10,7 @@
 - Saved Names are editable during Edit Mode
 
 
-
+#
 > Feel free to suggest an improvment or a new feature. ^^
 #
 > Note: This Extension is made for Browser `currently supports only Chromium Engine`.
