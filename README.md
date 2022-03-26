@@ -25,7 +25,7 @@
 
 - Script Injection
 - Pure Vanila JS
-- Added self-made jQuery-Clone to avoid long JS code (no jquery library), you can check it unter  [helper section](./helpers/jquery-clone.js)
+- Added self-made jQuery-Clone to avoid long JS code (no jquery library), you can check it under  [helper section](./helpers/jquery-clone.js)
 - Local Storage
 - contentEditable
 
