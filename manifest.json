@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Mattermost - Names Randomizer",
+  "author": "Sam Bo Hamdan",
+  "description": "Randomly shuffle names in a list",
+  "icons": {
+    "128": "main-icon.png"
+  },
+  "action": {
+    "default_icon": "main-icon-16.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/*/channels/*",
+        "https://*/*/messages/*",
+        "https://*.mattermost.com/*"
+      ],
+      "run_at": "document_idle",
+      "js": [
+        "helpers/jquery-clone.js",
+        "handlers/storage/index.js",
+        "handlers/renderer/index.js",
+        "helpers/index.js",
+        "main.js"
+      ]
+    }
+  ]
+}
