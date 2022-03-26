@@ -1,8 +1,6 @@
 # Mattermost - Names Randomizer
 ### Integrate into Mattermost web app a randomizer for a list of names.
-#
-#
-#
+
 
 
 ## Features
@@ -10,9 +8,7 @@
 - Each Chat Channel will have its own key in Local Storage
 - ✨The names are channel dependent✨ 
 - Saved Names are editable during Edit Mode
-#
-#
-#
+
 
 
 > Feel free to suggest an improvment or a new feature. ^^
