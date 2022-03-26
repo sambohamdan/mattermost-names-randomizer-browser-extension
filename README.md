@@ -18,8 +18,8 @@
 #
 
 ## Preview
-<img src="https://i.ibb.co/6016QsT/entry.png" width="500"/> <img src="https://i.ibb.co/pZpBkH7/edit-mode.png" width="500" />
-<img src="https://i.ibb.co/qRfqT1R/saved-names.png" width="500" /> <img src="https://i.ibb.co/v1X6Hpj/trigger-location-in-mattermost-header.png" width="500" />
+<img src="https://i.ibb.co/6016QsT/entry.png" width="400"/> <img src="https://i.ibb.co/pZpBkH7/edit-mode.png" width="400" />
+<img src="https://i.ibb.co/qRfqT1R/saved-names.png" width="400" /> <img src="https://i.ibb.co/v1X6Hpj/trigger-location-in-mattermost-header.png" width="400" />
 
 ## Tech
 
