@@ -1,7 +1,7 @@
 # Mattermost - Names Randomizer
 
 
-### Integrate into Mattermost web app a randomizer for a list of names. <img src="./main-icon.png" width="30" height="30" />
+### Integrate into Mattermost website a randomizer as browser extension for a list of names. <img src="./main-icon.png" width="30" height="30" />
 
 
 ## Features
